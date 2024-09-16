@@ -9,9 +9,11 @@ namespace Project02_2{
 
             string str;
 
+            Console.Write("첫번째 계산할 값을 입력하세요 => ");
             str = Console.ReadLine();
             a = Convert.ToInt32(str);
 
+            Console.Write("두번째 계산할 값을 입력하세요 => ");
             str = Console.ReadLine();
             b = Convert.ToInt32(str);
 
