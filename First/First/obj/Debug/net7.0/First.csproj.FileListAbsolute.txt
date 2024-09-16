@@ -1,0 +1,15 @@
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/bin/Debug/net7.0/First
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/bin/Debug/net7.0/First.deps.json
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/bin/Debug/net7.0/First.runtimeconfig.json
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/bin/Debug/net7.0/First.dll
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/bin/Debug/net7.0/First.pdb
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/First.csproj.AssemblyReference.cache
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/First.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/First.AssemblyInfoInputs.cache
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/First.AssemblyInfo.cs
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/First.csproj.CoreCompileInputs.cache
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/First.dll
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/refint/First.dll
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/First.pdb
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/First.genruntimeconfig.cache
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/First/First/obj/Debug/net7.0/ref/First.dll
