@@ -1,18 +1,19 @@
-﻿<Properties StartupConfiguration="{68004789-FD60-436D-8FDD-B479368FA8B9}|Default">
+﻿<Properties StartupConfiguration="{A8892854-27DB-4D25-94EC-DFEC0793C4A6}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Project02__1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="First/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project02_1/Program.cs">
     <Files>
-      <File FileName="First/Program.cs" Line="8" Column="2" />
+      <File FileName="Project02_1/Program.cs" Line="20" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="First">
-            <Node name="First" selected="True">
+          <Node name="Project02_1" expanded="True">
+            <Node name="Project02_1">
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
               </Node>
@@ -23,5 +24,4 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.First PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

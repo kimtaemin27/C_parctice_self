@@ -1,0 +1,15 @@
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/bin/Debug/net7.0/Project02_2
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/bin/Debug/net7.0/Project02_2.deps.json
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/bin/Debug/net7.0/Project02_2.runtimeconfig.json
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/bin/Debug/net7.0/Project02_2.dll
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/bin/Debug/net7.0/Project02_2.pdb
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/Project02_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/Project02_2.AssemblyInfoInputs.cache
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/Project02_2.AssemblyInfo.cs
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/Project02_2.csproj.CoreCompileInputs.cache
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/Project02_2.dll
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/refint/Project02_2.dll
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/Project02_2.pdb
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/Project02_2.genruntimeconfig.cache
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/ref/Project02_2.dll
+/Users/gimtaemin/Desktop/workspace/git/C_parctice_self/Project02_2/Project02_2/obj/Debug/net7.0/Project02_2.sourcelink.json

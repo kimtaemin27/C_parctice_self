@@ -11,7 +11,9 @@ namespace First
         static void Main(string[] args)
         {
             int result;
-            result = 100 - 50;
+            //result = 100 - 50;
+            result = 100 - 99;
+            Console.WriteLine(result);
             Console.WriteLine(result);
         }
     }
