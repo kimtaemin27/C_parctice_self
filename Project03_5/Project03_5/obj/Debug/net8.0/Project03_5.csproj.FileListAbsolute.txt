@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\bin\Debug\net8.0\Project03_5.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\bin\Debug\net8.0\Project03_5.deps.json
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\bin\Debug\net8.0\Project03_5.runtimeconfig.json
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\bin\Debug\net8.0\Project03_5.dll
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\bin\Debug\net8.0\Project03_5.pdb
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\Project03_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\Project03_5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\Project03_5.AssemblyInfo.cs
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\Project03_5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\Project03_5.sourcelink.json
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\Project03_5.dll
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\refint\Project03_5.dll
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\Project03_5.pdb
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\Project03_5.genruntimeconfig.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project03_5\Project03_5\obj\Debug\net8.0\ref\Project03_5.dll
