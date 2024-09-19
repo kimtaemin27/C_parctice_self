@@ -2,7 +2,7 @@
 
 namespace Project02_1 {
 
-    class Progran {
+    class Program {
         
         static void Main(string[] args)
         {
