@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project02_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21127F45-4EFC-4530-A4D2-75BBBC801BD6}|Project02_3\\Project02_3.csproj|c:\\users\\user\\desktop\\tm_git\\c_parctice_self\\project02_3\\project02_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21127F45-4EFC-4530-A4D2-75BBBC801BD6}|Project02_3\\Project02_3.csproj|solutionrelative:project02_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AF20C74E-2461-4BD4-9925-0F3A7124E121}|Project02_3\\Project02_3.csproj|c:\\users\\user\\desktop\\tm_git\\c_parctice_self\\project02_3\\project02_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF20C74E-2461-4BD4-9925-0F3A7124E121}|Project02_3\\Project02_3.csproj|solutionrelative:project02_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21127F45-4EFC-4530-A4D2-75BBBC801BD6}|Project02_3\\Project02_3.csproj|c:\\users\\user\\desktop\\tm_git\\c_parctice_self\\project02_3\\project02_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21127F45-4EFC-4530-A4D2-75BBBC801BD6}|Project02_3\\Project02_3.csproj|solutionrelative:project02_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21127F45-4EFC-4530-A4D2-75BBBC801BD6}|Project02_3\\Project02_3.csproj|c:\\users\\user\\desktop\\tm_git\\c_parctice_self\\project02_3\\project02_3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21127F45-4EFC-4530-A4D2-75BBBC801BD6}|Project02_3\\Project02_3.csproj|solutionrelative:project02_3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF20C74E-2461-4BD4-9925-0F3A7124E121}|Project02_3\\Project02_3.csproj|c:\\users\\user\\desktop\\tm_git\\c_parctice_self\\project02_3\\project02_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF20C74E-2461-4BD4-9925-0F3A7124E121}|Project02_3\\Project02_3.csproj|solutionrelative:project02_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,22 +28,9 @@
               "RelativeDocumentMoniker": "Project02_3\\Form1.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project02_3\\Project02_3\\Form1.cs",
               "RelativeToolTip": "Project02_3\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAASwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:38:41.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project02_3\\Project02_3\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Project02_3\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project02_3\\Project02_3\\Form1.Designer.cs",
-              "RelativeToolTip": "Project02_3\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:35:26.353Z",
+              "WhenOpened": "2024-09-19T00:14:49.935Z",
               "EditorCaption": ""
             },
             {
@@ -59,7 +42,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project02_3\\Project02_3\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Project02_3\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:36:13.83Z",
+              "WhenOpened": "2024-09-19T00:14:05.858Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
