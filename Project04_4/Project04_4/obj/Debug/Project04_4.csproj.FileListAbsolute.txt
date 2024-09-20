@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\bin\Debug\Project04_4.exe.config
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\bin\Debug\Project04_4.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\bin\Debug\Project04_4.pdb
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\obj\Debug\Project04_4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\obj\Debug\Project04_4.Form1.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\obj\Debug\Project04_4.Properties.Resources.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\obj\Debug\Project04_4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\obj\Debug\Project04_4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\obj\Debug\Project0.1E6A494F.Up2Date
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\obj\Debug\Project04_4.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project04_4\Project04_4\obj\Debug\Project04_4.pdb
