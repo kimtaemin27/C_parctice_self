@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\obj\Debug\Project05_8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\obj\Debug\Project05_8.Form1.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\obj\Debug\Project05_8.Properties.Resources.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\obj\Debug\Project05_8.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\obj\Debug\Project05_8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\bin\Debug\Project05_8.exe.config
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\bin\Debug\Project05_8.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\bin\Debug\Project05_8.pdb
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\obj\Debug\Project05_8.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project05_8\Project05_8\obj\Debug\Project05_8.pdb
