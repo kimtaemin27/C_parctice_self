@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project07\\Project07_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC462BF4-DF57-4757-B651-2301115A87D0}|Project07_3\\Project07_3.csproj|c:\\users\\user\\desktop\\tm_git\\c_parctice_self\\project07\\project07_3\\project07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC462BF4-DF57-4757-B651-2301115A87D0}|Project07_3\\Project07_3.csproj|solutionrelative:project07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project07\\Project07_3\\Project07_3\\Program.cs",
+              "RelativeDocumentMoniker": "Project07_3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project07\\Project07_3\\Project07_3\\Program.cs",
+              "RelativeToolTip": "Project07_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:25:58.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
