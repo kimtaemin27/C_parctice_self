@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\obj\Debug\Project07_6.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\obj\Debug\Project07_6.Form1.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\obj\Debug\Project07_6.Properties.Resources.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\obj\Debug\Project07_6.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\obj\Debug\Project07_6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\bin\Debug\Project07_6.exe.config
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\bin\Debug\Project07_6.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\bin\Debug\Project07_6.pdb
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\obj\Debug\Project0.6150AB84.Up2Date
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\obj\Debug\Project07_6.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project07\Project07_6\Project07_6\obj\Debug\Project07_6.pdb
