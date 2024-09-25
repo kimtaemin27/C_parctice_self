@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\bin\Debug\net8.0\Project08_8.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\bin\Debug\net8.0\Project08_8.deps.json
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\bin\Debug\net8.0\Project08_8.runtimeconfig.json
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\bin\Debug\net8.0\Project08_8.dll
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\bin\Debug\net8.0\Project08_8.pdb
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\Project08_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\Project08_8.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\Project08_8.AssemblyInfo.cs
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\Project08_8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\Project08_8.sourcelink.json
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\Project08_8.dll
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\refint\Project08_8.dll
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\Project08_8.pdb
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\Project08_8.genruntimeconfig.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project08\Project08_8\Project08_8\obj\Debug\net8.0\ref\Project08_8.dll
