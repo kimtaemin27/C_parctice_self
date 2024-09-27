@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\bin\Debug\Project09_2.exe.config
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\bin\Debug\Project09_2.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\bin\Debug\Project09_2.pdb
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\obj\Debug\Project09_2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\obj\Debug\Project09_2.Form1.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\obj\Debug\Project09_2.Properties.Resources.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\obj\Debug\Project09_2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\obj\Debug\Project09_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\obj\Debug\Project09_2.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project09\Project09_2\Project09_2\obj\Debug\Project09_2.pdb
