@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E92CA26F-8A6B-4569-93BA-E36C19BC97FB}|Project09_6\\Project09_6.csproj|solutionrelative:project09_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E92CA26F-8A6B-4569-93BA-E36C19BC97FB}|Project09_6\\Project09_6.csproj|c:\\users\\user\\desktop\\tm_git\\c_parctice_self\\project09\\project09_6\\project09_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E92CA26F-8A6B-4569-93BA-E36C19BC97FB}|Project09_6\\Project09_6.csproj|C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project09\\Project09_6\\project09_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E92CA26F-8A6B-4569-93BA-E36C19BC97FB}|Project09_6\\Project09_6.csproj|solutionrelative:project09_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Project09_6\\Form1.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project09\\Project09_6\\Project09_6\\Form1.cs",
               "RelativeToolTip": "Project09_6\\Form1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAawCwAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawCwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T04:44:20.918Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\tm_git\\C_parctice_self\\Project09\\Project09_6\\Project09_6\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Project09_6\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T04:40:18.646Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2024-09-27T04:40:18.646Z"
             }
           ]
         }
