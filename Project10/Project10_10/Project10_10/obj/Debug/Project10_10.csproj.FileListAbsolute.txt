@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\bin\Debug\Project10_10.exe.config
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\bin\Debug\Project10_10.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\bin\Debug\Project10_10.pdb
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\obj\Debug\Project10_10.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\obj\Debug\Project10_10.Form1.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\obj\Debug\Project10_10.Properties.Resources.resources
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\obj\Debug\Project10_10.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\obj\Debug\Project10_10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\obj\Debug\Project10_10.exe
+C:\Users\user\Desktop\tm_git\C_parctice_self\Project10\Project10_10\Project10_10\obj\Debug\Project10_10.pdb
